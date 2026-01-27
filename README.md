@@ -1,4 +1,4 @@
-# 🛠️ JavaScript Projects – From Beginner to Expert
+# JavaScript Projects –  Beginner to Expert
 
 Welcome to the **JavaScript Projects** repository!  
 This collection includes a variety of projects built with plain JavaScript, showcasing concepts from beginner to expert level.
