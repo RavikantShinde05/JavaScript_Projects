@@ -7,9 +7,9 @@ Whether you're just starting out or want to challenge your skills with advanced 
 
 ---
 
-## 📁 Project Levels
+##  Project Levels
 
-### 💡 Beginner
+###  Beginner
 Simple and fun projects that help you get comfortable with:
 - Variables, functions, loops, and conditions
 - DOM manipulation
@@ -32,7 +32,7 @@ Examples:
 
 ---
 
-### 🧠 Advanced
+###  Advanced
 Challenging projects that dive deep into:
 - Async programming (Promises, async/await)
 - Advanced UI/UX handling
@@ -45,7 +45,7 @@ Examples:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repo:**
    ```bash
@@ -53,6 +53,6 @@ Examples:
 
    ```
 
- # 📌 Contributions
- ## Feel free to fork this repository and submit your own JavaScript projects or improvements via pull requests!
+ ##  Contributions
+ - Feel free to fork this repository and submit your own JavaScript projects or improvements via pull requests!
 
